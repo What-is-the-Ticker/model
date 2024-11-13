@@ -1,0 +1,862 @@
+[
+    {
+        "input": "Masternodes",
+        "output": "Coin name: 01coin Ticker: zoc",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Storage, Polygon Ecosystem, Ethereum Ecosystem, DePIN",
+        "output": "Coin name: Zus Ticker: zcn",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Ethereum Ecosystem",
+        "output": "Coin name: Bitcoin Dogs Ticker: 0dog",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Ethereum Ecosystem",
+        "output": "Coin name: 0 Knowledge Network Ticker: 0kn",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Ethereum Ecosystem",
+        "output": "Coin name: O-MEE Ticker: ome",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "",
+        "output": "Coin name: 0VIX Protocol Ticker: vix",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Decentralized Exchange (DEX), Protocol, Decentralized Finance (DeFi), Governance, Avalanche Ecosystem, Polygon Ecosystem, Harmony Ecosystem, Ethereum Ecosystem, Coinbase Ventures Portfolio, Pantera Capital Portfolio, Energi Ecosystem, GMCI DeFi Index, Blockchain Capital Portfolio",
+        "output": "Coin name: 0x Protocol Ticker: zrx",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Artificial Intelligence (AI), Ethereum Ecosystem",
+        "output": "Coin name: 0x0.ai: AI Smart Contract Ticker: 0x0",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Ethereum Ecosystem, The Boy\u2019s Club",
+        "output": "Coin name: Landwolf Ticker: wolf",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Solana Ecosystem",
+        "output": "Coin name: 0xAdventure Ticker: zad",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Ethereum Ecosystem",
+        "output": "Coin name: 0xAISwap Ticker: 0xaiswap",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Ethereum Ecosystem",
+        "output": "Coin name: 0xAnon Ticker: 0xanon",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Gambling (GambleFi), Ethereum Ecosystem",
+        "output": "Coin name: 0xCoco Ticker: coco",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Fantom Ecosystem",
+        "output": "Coin name: 0xDAO Ticker: oxd",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Artificial Intelligence (AI), Decentralized Finance (DeFi), BNB Chain Ecosystem, MEV Protection, Ethereum Ecosystem",
+        "output": "Coin name: 0xDEFCAFE Ticker: cafe",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Ethereum Ecosystem, Account Abstraction",
+        "output": "Coin name: 0xGasless Ticker: 0xgas",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Ethereum Ecosystem",
+        "output": "Coin name: 0xGen Ticker: xgn",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Ethereum Ecosystem",
+        "output": "Coin name: 0x Leverage Ticker: oxl",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Decentralized Finance (DeFi), Ethereum Ecosystem",
+        "output": "Coin name: OpenLiquidity Ticker: openli",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "",
+        "output": "Coin name: 0xLSD Ticker: 0xlsd",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Cryptocurrency, BNB Chain Ecosystem, Number, Polygon Ecosystem, Gnosis Chain Ecosystem, Fantom Ecosystem, Ethereum Ecosystem, Aurora Ecosystem",
+        "output": "Coin name: 0xMonero Ticker: 0xmr",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Ethereum Ecosystem",
+        "output": "Coin name: 0xNumber Ticker: oxn",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Ethereum Ecosystem",
+        "output": "Coin name: 0xPrivacy Ticker: 0xp",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Ethereum Ecosystem",
+        "output": "Coin name: 0xScans Ticker: scan",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Ethereum Ecosystem",
+        "output": "Coin name: 0xVPN.org Ticker: vpn",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme",
+        "output": "Coin name: 1000BONK Ticker: 1000bonk",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "",
+        "output": "Coin name: 1000BTT Ticker: 1000btt",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "BRC-20, Inscriptions",
+        "output": "Coin name: 1000RATS Ticker: 1000rats",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "BRC-20, Inscriptions",
+        "output": "Coin name: 1000SATS (Ordinals) Ticker: 1000sats",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "",
+        "output": "Coin name: 1000SHIB Ticker: 1000shib",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Solana Ecosystem",
+        "output": "Coin name: Bonk Ticker: bonk",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Solana Ecosystem",
+        "output": "Coin name: Dogwifhat Ticker: dwh",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Solana Ecosystem",
+        "output": "Coin name: Popcat Ticker: popcat",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Solana Ecosystem",
+        "output": "Coin name: Book of Meme Ticker: bome",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Solana Ecosystem",
+        "output": "Coin name: PONKE Ticker: ponke",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Solana Ecosystem",
+        "output": "Coin name: Myro Ticker: myro",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Solana Ecosystem",
+        "output": "Coin name: Kitsu Ticker: kitsu",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Base Ecosystem",
+        "output": "Coin name: Sushiswap Ticker: sushi",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Base Ecosystem",
+        "output": "Coin name: Shiba Inu Ticker: shib",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Base Ecosystem",
+        "output": "Coin name: Dogecoin Ticker: doge",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Base Ecosystem",
+        "output": "Coin name: Floki Inu Ticker: floki",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Base Ecosystem",
+        "output": "Coin name: SafeMoon Ticker: safemoon",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Base Ecosystem",
+        "output": "Coin name: Baby Dogecoin Ticker: baby-doge",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Base Ecosystem",
+        "output": "Coin name: Kishu Inu Ticker: kishu",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Doge, Ethereum Ecosystem",
+        "output": "Coin name: DogeMoon Ticker: dogemoon",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Rocket, Solana Ecosystem",
+        "output": "Coin name: RocketDog Ticker: rocketdog",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Lambo, Ethereum Ecosystem",
+        "output": "Coin name: LamboKing Ticker: lamboking",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Doge, Polygon Ecosystem",
+        "output": "Coin name: DogeFi Ticker: dogefi",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Bear, Polygon Ecosystem",
+        "output": "Coin name: BearGang Ticker: beargang",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Pepe, Solana Ecosystem",
+        "output": "Coin name: PepeCoinX Ticker: pepecoinx",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Degen, Ethereum Ecosystem",
+        "output": "Coin name: DegenCoinX Ticker: degencoinx",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Moon, BNB Chain Ecosystem",
+        "output": "Coin name: MoonCoin Ticker: mooncoin",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Doge, Solana Ecosystem",
+        "output": "Coin name: DogeBoost Ticker: dogeboost",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Pepe, Ethereum Ecosystem",
+        "output": "Coin name: PepeMax Ticker: pemax",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Lambo, Polygon Ecosystem",
+        "output": "Coin name: LamboGalaxy Ticker: lambogalaxy",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Rocket, BNB Chain Ecosystem",
+        "output": "Coin name: RocketMeme Ticker: rocketmeme",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Doge, BNB Chain Ecosystem",
+        "output": "Coin name: DogeRush Ticker: dogerush",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Vibe, Ethereum Ecosystem",
+        "output": "Coin name: VibeMoon Ticker: vibemoon",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Degen, Solana Ecosystem",
+        "output": "Coin name: DegenLite Ticker: degenlite",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Doge, Ethereum Ecosystem",
+        "output": "Coin name: DogePower Ticker: dogepower",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Shiba, Ethereum Ecosystem",
+        "output": "Coin name: ShibaMoon Ticker: shibamoon",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Lambo, Solana Ecosystem",
+        "output": "Coin name: LamboCoin Ticker: lambocoin",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Degen, Polygon Ecosystem",
+        "output": "Coin name: DegenWorld Ticker: degenworld",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Pepe, BNB Chain Ecosystem",
+        "output": "Coin name: PepeGold Ticker: pepegold",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, HODL, Ethereum Ecosystem",
+        "output": "Coin name: HODLMax Ticker: hodlmax",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Moon, Ethereum Ecosystem",
+        "output": "Coin name: MoonVibes Ticker: moonvibes",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Doge, Polygon Ecosystem",
+        "output": "Coin name: DogeKing Ticker: dogeking",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Vibe, Solana Ecosystem",
+        "output": "Coin name: VibeWave Ticker: vibewave",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Doge, Ethereum Ecosystem",
+        "output": "Coin name: DogeStorm Ticker: dogestorm",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Degen, Ethereum Ecosystem",
+        "output": "Coin name: DegenToken Ticker: degentoken",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Shiba, Polygon Ecosystem",
+        "output": "Coin name: ShibaKing Ticker: shibaking",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Rocket, Ethereum Ecosystem",
+        "output": "Coin name: RocketFuel Ticker: rocketfuel",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Moon, Polygon Ecosystem",
+        "output": "Coin name: MoonCoinX Ticker: mooncoinx",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Pepe, Solana Ecosystem",
+        "output": "Coin name: PepeFi Ticker: pepefi",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Doge, Solana Ecosystem",
+        "output": "Coin name: DogePower Ticker: dogepower",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Pepe, Polygon Ecosystem",
+        "output": "Coin name: PepeLand Ticker: pepegold",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Rocket, Ethereum Ecosystem",
+        "output": "Coin name: RocketMeme Ticker: rocketmeme",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Doge, Polygon Ecosystem",
+        "output": "Coin name: DogeUniverse Ticker: dogeuniverse",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Lambo, Polygon Ecosystem",
+        "output": "Coin name: LamboCoinX Ticker: lambocoinx",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Doge, Solana Ecosystem",
+        "output": "Coin name: DogeLife Ticker: dogelife",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Pepe, BNB Chain Ecosystem",
+        "output": "Coin name: PepeFiCoin Ticker: pepifi",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Lambo, Solana Ecosystem",
+        "output": "Coin name: LamboRocket Ticker: lamborocket",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Degen, Ethereum Ecosystem",
+        "output": "Coin name: DegenClassic Ticker: degenclassic",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Shiba, Solana Ecosystem",
+        "output": "Coin name: ShibaToke Ticker: shibatoke",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Doge, Ethereum Ecosystem",
+        "output": "Coin name: DogeLand Ticker: dogeland",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Rocket, Polygon Ecosystem",
+        "output": "Coin name: RocketX Ticker: rocketx",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Degen, Solana Ecosystem",
+        "output": "Coin name: DegenPower Ticker: degenpower",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Doge, Ethereum Ecosystem",
+        "output": "Coin name: DogeMoon Ticker: dogemoon",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Rocket, Solana Ecosystem",
+        "output": "Coin name: RocketDog Ticker: rocketdog",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Lambo, Ethereum Ecosystem",
+        "output": "Coin name: LamboKing Ticker: lamboking",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Doge, Polygon Ecosystem",
+        "output": "Coin name: DogeFi Ticker: dogefi",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Bear, Polygon Ecosystem",
+        "output": "Coin name: BearGang Ticker: beargang",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Pepe, Solana Ecosystem",
+        "output": "Coin name: PepeCoinX Ticker: pepecoinx",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Degen, Ethereum Ecosystem",
+        "output": "Coin name: DegenCoinX Ticker: degencoinx",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Moon, BNB Chain Ecosystem",
+        "output": "Coin name: MoonCoin Ticker: mooncoin",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Doge, Solana Ecosystem",
+        "output": "Coin name: DogeBoost Ticker: dogeboost",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Pepe, Ethereum Ecosystem",
+        "output": "Coin name: PepeMax Ticker: pemax",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Lambo, Polygon Ecosystem",
+        "output": "Coin name: LamboGalaxy Ticker: lambogalaxy",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Rocket, BNB Chain Ecosystem",
+        "output": "Coin name: RocketMeme Ticker: rocketmeme",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Doge, BNB Chain Ecosystem",
+        "output": "Coin name: DogeRush Ticker: dogerush",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Vibe, Ethereum Ecosystem",
+        "output": "Coin name: VibeMoon Ticker: vibemoon",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Degen, Solana Ecosystem",
+        "output": "Coin name: DegenLite Ticker: degenlite",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Doge, Ethereum Ecosystem",
+        "output": "Coin name: DogePower Ticker: dogepower",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Shiba, Ethereum Ecosystem",
+        "output": "Coin name: ShibaMoon Ticker: shibamoon",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Lambo, Solana Ecosystem",
+        "output": "Coin name: LamboCoin Ticker: lambocoin",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Degen, Polygon Ecosystem",
+        "output": "Coin name: DegenWorld Ticker: degenworld",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Pepe, BNB Chain Ecosystem",
+        "output": "Coin name: PepeGold Ticker: pepegold",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, HODL, Ethereum Ecosystem",
+        "output": "Coin name: HODLMax Ticker: hodlmax",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Moon, Ethereum Ecosystem",
+        "output": "Coin name: MoonVibes Ticker: moonvibes",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Doge, Polygon Ecosystem",
+        "output": "Coin name: DogeKing Ticker: dogeking",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Vibe, Solana Ecosystem",
+        "output": "Coin name: VibeWave Ticker: vibewave",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Doge, Ethereum Ecosystem",
+        "output": "Coin name: DogeStorm Ticker: dogestorm",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Degen, Ethereum Ecosystem",
+        "output": "Coin name: DegenToken Ticker: degentoken",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Shiba, Polygon Ecosystem",
+        "output": "Coin name: ShibaKing Ticker: shibaking",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Rocket, Ethereum Ecosystem",
+        "output": "Coin name: RocketFuel Ticker: rocketfuel",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Moon, Polygon Ecosystem",
+        "output": "Coin name: MoonCoinX Ticker: mooncoinx",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Pepe, Solana Ecosystem",
+        "output": "Coin name: PepeFi Ticker: pepefi",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Doge, Solana Ecosystem",
+        "output": "Coin name: DogePower Ticker: dogepower",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Pepe, Polygon Ecosystem",
+        "output": "Coin name: PepeLand Ticker: pepegold",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Rocket, Ethereum Ecosystem",
+        "output": "Coin name: RocketMeme Ticker: rocketmeme",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Doge, Polygon Ecosystem",
+        "output": "Coin name: DogeUniverse Ticker: dogeuniverse",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Lambo, Polygon Ecosystem",
+        "output": "Coin name: LamboCoinX Ticker: lambocoinx",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Doge, Solana Ecosystem",
+        "output": "Coin name: DogeLife Ticker: dogelife",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Pepe, BNB Chain Ecosystem",
+        "output": "Coin name: PepeFiCoin Ticker: pepifi",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Lambo, Solana Ecosystem",
+        "output": "Coin name: LamboRocket Ticker: lamborocket",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Degen, Ethereum Ecosystem",
+        "output": "Coin name: DegenClassic Ticker: degenclassic",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Shiba, Solana Ecosystem",
+        "output": "Coin name: ShibaToke Ticker: shibatoke",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Doge, Ethereum Ecosystem",
+        "output": "Coin name: DogeLand Ticker: dogeland",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Rocket, Polygon Ecosystem",
+        "output": "Coin name: RocketX Ticker: rocketx",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Degen, Solana Ecosystem",
+        "output": "Coin name: DegenPower Ticker: degenpower",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Degen, Solana Ecosystem",
+        "output": "Coin name: DegenCoin Ticker: degen",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Vibe, Ethereum Ecosystem",
+        "output": "Coin name: ChillVibe Ticker: chillvibe",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, HODL, Polygon Ecosystem",
+        "output": "Coin name: HODLerCoin Ticker: hodlercoin",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Frog, Solana Ecosystem",
+        "output": "Coin name: FrogKing Ticker: frogking",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Doge, Base Ecosystem",
+        "output": "Coin name: DogeKing Ticker: dogeking",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Lambo, Ethereum Ecosystem",
+        "output": "Coin name: LamboCoin2.0 Ticker: lambocoin2",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Degen, BNB Chain Ecosystem",
+        "output": "Coin name: DegenCoinX Ticker: degenx",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Doge, Solana Ecosystem",
+        "output": "Coin name: DogeVibes Ticker: dogevibes",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Pepe, Polygon Ecosystem",
+        "output": "Coin name: PepeSquad Ticker: pepesquad",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Lambo, Solana Ecosystem",
+        "output": "Coin name: LamboFury Ticker: lambofury",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Bear, Ethereum Ecosystem",
+        "output": "Coin name: BearToken Ticker: beartoken",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Swole, Solana Ecosystem",
+        "output": "Coin name: SwoleDog Ticker: swoledog",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Degen, Polygon Ecosystem",
+        "output": "Coin name: DegenArmy Ticker: degenarmy",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Pepe, Solana Ecosystem",
+        "output": "Coin name: PepeMeme Ticker: pepememe",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Doge, Ethereum Ecosystem",
+        "output": "Coin name: DogeStorm Ticker: dogestorm",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Rocket, Solana Ecosystem",
+        "output": "Coin name: RocketMoon Ticker: rocketmoon",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Pizza, Ethereum Ecosystem",
+        "output": "Coin name: PizzaMeme Ticker: pizzameme",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Meme, BNB Chain Ecosystem",
+        "output": "Coin name: MemeGold Ticker: memegold",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Rocket, Polygon Ecosystem",
+        "output": "Coin name: RocketCoin Ticker: rocketcoin",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Doge, Base Ecosystem",
+        "output": "Coin name: DogeFi Ticker: dogefi",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Moon, Ethereum Ecosystem",
+        "output": "Coin name: MoonVibes Ticker: moonvibes",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Meme, Solana Ecosystem",
+        "output": "Coin name: MemeCoinX Ticker: memecoinx",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Doge, Polygon Ecosystem",
+        "output": "Coin name: DogeLife Ticker: dogelife",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Lambo, Solana Ecosystem",
+        "output": "Coin name: LamboDream Ticker: lambodream",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Doge, BNB Chain Ecosystem",
+        "output": "Coin name: DogeRider Ticker: dogerider",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Pepe, Ethereum Ecosystem",
+        "output": "Coin name: PepeChill Ticker: pepechill",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Vibe, Polygon Ecosystem",
+        "output": "Coin name: ChillMeme Ticker: chillmeme",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Lambo, Ethereum Ecosystem",
+        "output": "Coin name: LamboCoinX Ticker: lambocoinx",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Degen, Polygon Ecosystem",
+        "output": "Coin name: DegenVibe Ticker: degenvibe",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Doge, Solana Ecosystem",
+        "output": "Coin name: DogeBoss Ticker: dogeboss",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Bear, Solana Ecosystem",
+        "output": "Coin name: BearCoinX Ticker: bearcoinx",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Frog, Polygon Ecosystem",
+        "output": "Coin name: FrogMoon Ticker: frogmoon",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Moon, Ethereum Ecosystem",
+        "output": "Coin name: MoonCoinX Ticker: mooncoinx",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Pepe, Polygon Ecosystem",
+        "output": "Coin name: PepeFi Ticker: pepefi",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, HODL, Ethereum Ecosystem",
+        "output": "Coin name: HODLWorld Ticker: hodlworld",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Rocket, BNB Chain Ecosystem",
+        "output": "Coin name: RocketVibe Ticker: rocketvibe",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Doge, Ethereum Ecosystem",
+        "output": "Coin name: DogeDynasty Ticker: dogedynasty",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Doge, Polygon Ecosystem",
+        "output": "Coin name: DogeFiKing Ticker: dogefiking",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Moon, Polygon Ecosystem",
+        "output": "Coin name: MoonGlow Ticker: moonglow",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Doge, BNB Chain Ecosystem",
+        "output": "Coin name: DogePower Ticker: dogepower",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Pepe, Ethereum Ecosystem",
+        "output": "Coin name: PepeKing Ticker: pepeking",
+        "instruction": "What is the ticker?"
+    },
+    {
+        "input": "Meme, Rocket, Polygon Ecosystem",
+        "output": "Coin name: RocketKing Ticker: rocketking",
+        "instruction": "What is the ticker?"
+    }
+]   
